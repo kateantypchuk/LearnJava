@@ -1,3 +1,5 @@
+package java.fundamentals;
+
 //Отобразить в окне консоли аргументы командной строки в обратном порядке
 
 class MainTask2 {

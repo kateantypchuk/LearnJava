@@ -1,3 +1,5 @@
+package java.fundamentals;
+
 import java.util.Scanner;
 //Вывести заданное количество случайных чисел с переходом и без перехода на новую строку
 public class MainTask3 {

@@ -1,3 +1,5 @@
+package java.fundamentals;
+
 import java.util.Scanner;
 
 public class MainTask {
