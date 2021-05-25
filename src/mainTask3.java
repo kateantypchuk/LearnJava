@@ -1,6 +1,6 @@
 import java.util.Scanner;
 //Вывести заданное количество случайных чисел с переходом и без перехода на новую строку
-public class mainTask3 {
+public class MainTask3 {
     public static void main(String[] args) {
         System.out.println("Задайте количество чисел");
         Scanner scan = new Scanner(System.in);
