@@ -1,4 +1,4 @@
-package java.fundamentals;
+package org.learn;
 
 //Отобразить в окне консоли аргументы командной строки в обратном порядке
 

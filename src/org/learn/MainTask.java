@@ -1,4 +1,4 @@
-package java.fundamentals;
+package org.learn;
 
 import java.util.Scanner;
 

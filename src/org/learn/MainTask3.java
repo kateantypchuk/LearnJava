@@ -1,4 +1,4 @@
-package java.fundamentals;
+package org.learn;
 
 import java.util.Scanner;
 //Вывести заданное количество случайных чисел с переходом и без перехода на новую строку
